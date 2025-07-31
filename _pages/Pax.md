@@ -177,7 +177,7 @@ En <a href="https://www.corriere.it/esteri/25_luglio_06/una-base-militare-insiem
 
 <div style="margin-bottom: 2.5rem;">
   <h3>10. El antropófago: Un cortometraje estadístico</h3>
-  <p><a href="https://x.com/ArduinoTomasi/status/1826105992536346904">[Link]</a></p>
+  <p><a href="https://arduinotomasi.github.io/posts/2024/08/cortometraje/">[Link]</a></p>
   <p style="text-align: justify; font-size: 12pt; line-height: 1.6;">
   Este artículo presenta un análisis detallado de las muertes violentas "de intención no determinada" en Ecuador durante el gobierno de Rafael Correa, enfocándose en su distribución geográfica y temporal. El estudio aumenta la granularidad del análisis a niveles mensuales y diarios, particularmente para los años 2013 y 2014. La hipótesis central sugiere que, si estas muertes fueran verdaderamente accidentales, deberían distribuirse uniformemente en el espacio y el tiempo. Sin embargo, el análisis revela patrones de concentración que se mueven geográficamente de manera secuencial, posiblemente trazando rutas del narcotráfico desde centros urbanos hacia provincias costeras. Para visualizar estos patrones, se crearon mapas de calor diarios, codificados en verde (ausencia de muertes) y negro (al menos una muerte), permitiendo observar el movimiento de estas concentraciones a lo largo del tiempo. El estudio presenta este análisis como una narrativa visual, invitando a los lectores a interpretar los datos y proporcionando códigos en R para la reproducibilidad de la investigación.
   </p>
