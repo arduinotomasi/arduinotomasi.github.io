@@ -185,7 +185,7 @@ En <a href="https://www.corriere.it/esteri/25_luglio_06/una-base-militare-insiem
 
 <div style="margin-bottom: 2.5rem;">
   <h3>11. Ecuador, 2014</h3>
-  <p><a href="https://x.com/ArduinoTomasi/status/1830004015922626786">[Link]</a></p>
+  <p><a href="https://arduinotomasi.github.io/posts/2024/08/catorce/">[Link]</a></p>
   <p style="text-align: justify; font-size: 12pt; line-height: 1.6;">
   Este artículo analiza cifras de muertes violentas en Ecuador durante el año 2014, revelando una situación alarmante: se registraron 1,070 homicidios, mientras que 1,353 muertes violentas quedaron clasificadas como "de intención no determinada". El estudio aborda la preocupación de posibles errores en los datos, como duplicidades, mediante un algoritmo en R que procesa la microdata oficial, eliminando duplicados y verificando la unicidad de cada registro. El código presentado utiliza identificadores basados en la fecha de nacimiento y otros datos demográficos para asegurar la precisión del conteo. Los resultados confirman que no se trata de un simple error de duplicidad, sino que revelan irregularidades significativas en las cifras de muertes violentas. Este hallazgo sugiere una posible subestimación de homicidios y plantea serias preguntas sobre la clasificación y el registro de muertes violentas en Ecuador durante ese período.
   </p>
