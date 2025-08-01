@@ -1,8 +1,12 @@
 ---
-layout: redirect
+layout: archive
 title: "Luz Lateral"
 permalink: /Lateral/
-redirect_to: https://periodismodeinvestigacion.com/category/luz-lateral/
-sitemap: false
+author_profile: true
 ---
 
+<meta http-equiv="refresh" content="0; url=https://periodismodeinvestigacion.com/category/luz-lateral/">
+
+# Redireccionando...
+
+[Ir a Luz Lateral ahora](https://periodismodeinvestigacion.com/category/luz-lateral/)
