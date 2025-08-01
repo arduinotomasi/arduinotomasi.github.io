@@ -21,6 +21,8 @@ En las últimas semanas, mi investigación sobre los efectos del cierre de la Ba
 <br>En cuanto a las muertes violentas "de intención no determinada", como he detallado en mi publicación "El antropófago", disponible en este link, el siguiente gráfico ilustra los incrementos porcentuales tras la salida de la Base de Manta.<br>
 </div>
 
+<br>
+
 ![Figure 2](/images/2010ff.png)
 
 <div style="text-align: justify;" >
@@ -28,6 +30,7 @@ En las últimas semanas, mi investigación sobre los efectos del cierre de la Ba
 <br>Realizando exactamente el mismo ejercicio pero con las cifras de suicidios, se obtiene el siguiente gráfico:<br>
 </div>
 
+<br>
 
 ![Figure 4](/images/suicidios10.jpg)
 
