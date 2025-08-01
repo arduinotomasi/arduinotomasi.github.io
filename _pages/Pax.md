@@ -193,7 +193,7 @@ En <a href="https://www.corriere.it/esteri/25_luglio_06/una-base-militare-insiem
 
 <div style="margin-bottom: 2.5rem;">
   <h3>12. ¿Suicidios?</h3>
-  <p><a href="https://x.com/ArduinoTomasi/status/1832525498523472052">[Link]</a></p>
+  <p><a href="https://arduinotomasi.github.io/posts/2024/09/suicidios/">[Link]</a></p>
   <p style="text-align: justify; font-size: 12pt; line-height: 1.6;">
   En este artículo, abordo la pregunta de si las muertes violentas catalogadas como "de intención no determinada" en Ecuador podrían ser simplemente suicidios, especialmente tras el cierre de la Base de Manta a finales de 2009. Comparo los patrones geográficos de estas muertes con los de suicidios confirmados en 2010. Utilizando mapas que muestran incrementos en las variaciones anuales de las tasas, revelo que mientras las muertes "de intención no determinada" se concentran en provincias clave para el tráfico de cocaína, especialmente en la frontera con Colombia, los suicidios no muestran este patrón. Esta divergencia en la distribución geográfica sugiere que estas muertes indeterminadas están más probablemente relacionadas con actividades del narcotráfico que con un aumento en suicidios. Contextualizo el análisis con datos sobre la drástica disminución en incautaciones de cocaína tras el cierre de la Base, reforzando la hipótesis de un vínculo entre estas muertes y el crimen organizado.
   </p>
