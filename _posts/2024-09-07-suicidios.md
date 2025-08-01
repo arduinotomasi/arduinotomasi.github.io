@@ -53,14 +53,14 @@ En las últimas semanas, mi investigación sobre los efectos del cierre de la Ba
 <strong>Replicación</strong>
 
 </div>
-<br>
+
 
 <div style="text-align: justify;" >
 
 <br>Para garantizar la transparencia y reproducibilidad de este análisis, los datos utilizados son de acceso público y pueden ser verificados independientemente. A continuación, detallo el proceso de obtención y procesamiento de los datos:<br>
 
 
-<strong>1. Fuente de datos. </strong> Los datos de los años 2009 y 2010 se obtuvieron directamente del Instituto Nacional de Estadística y Censos (INEC) de Ecuador. Estos están disponibles en el siguiente enlace: https://anda.inec.gob.ec/anda/index.php/catalog/SOCDEMO. Los invito a descargar estos datos para verificar por su cuenta la información utilizada y los resultados presentados.<br> 
+<br><strong>1. Fuente de datos. </strong> Los datos de los años 2009 y 2010 se obtuvieron directamente del Instituto Nacional de Estadística y Censos (INEC) de Ecuador. Estos están disponibles en el siguiente enlace: https://anda.inec.gob.ec/anda/index.php/catalog/SOCDEMO. Los invito a descargar estos datos para verificar por su cuenta la información utilizada y los resultados presentados.<br> 
 
 <br><strong>2. Variables de estudio.</strong> "Var" representa la variación anual en las tasas de muertes de intención no determinada; y, "VarS", la variación anual en las tasas de suicidios. Ambas variables deben ser a nivel provincial, y cuantifican la variación porcentual del logaritmo natural de las tasas entre 2009 y 2010.<br>
 
