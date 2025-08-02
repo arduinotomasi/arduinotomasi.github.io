@@ -202,7 +202,7 @@ I am a social scientist who bridges academic research with investigative journal
 </p>
 
 <p class="welcome-text">
-My academic research employs game-theoretic models and quantitative methods to examine how public policies influence electoral dynamics and how political frictions generate economic distortions in developing countries. This analytical foundation now informs my investigative work on organized crime, state capture, and institutional manipulation in Ecuador, where I combine data analysis with the literary techniques of avant-garde writer Pablo Palacio.
+My academic research employs game-theoretic models and quantitative methods to study how public policies influence electoral dynamics and how political frictions generate economic distortions in developing countries. This analytical foundation now informs my investigative work on organized crime, state capture, and institutional manipulation in Ecuador, where I combine data analysis with the literary techniques of avant-garde writer Pablo Palacio.
 </p>
 </div>
 
@@ -240,7 +240,7 @@ Read Full Analysis →
 <a href="https://periodismodeinvestigacion.com/category/luz-lateral/" target="_blank">Luz Lateral</a>
 </h4>
 <p class="investigation-description">
-An experimental platform for social critique through the creative reimagining of Pablo Palacio's canonical short stories. This project bridges literary analysis and contemporary social commentary, using Palacio's surrealist framework to examine the peculiar theater of modern Ecuadorian political and social realities—where the absurd and grotesque has become so naturalized that perhaps only avant-garde techniques can restore our capacity for astonishment.
+An experimental platform for social critique through the creative reimagining of Pablo Palacio's canonical short stories. This project bridges literary analysis and social commentary, using Palacio's surrealist framework to explore modern Ecuadorian political and social realities—where the absurd and grotesque has become so naturalized that perhaps only avant-garde techniques can restore our capacity for astonishment.
 
 </p>
 <a href="https://periodismodeinvestigacion.com/category/luz-lateral/" target="_blank" class="investigation-link">
