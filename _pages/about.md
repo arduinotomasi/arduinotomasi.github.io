@@ -271,5 +271,6 @@ My professional trajectory spans academia, journalism, and public service. I hav
 These experiences provide crucial insights into the intersection of academic theory and political practice, informing my current work that seeks to make complex research accessible and impactful for broader audiences. My origins in Guayaquil—a city that deeply informs my understanding of Latin American political economy—ground my analytical perspective in lived experience and regional expertise.
 </p>
 </div>
-
+<br>
+<br>
 </div>
