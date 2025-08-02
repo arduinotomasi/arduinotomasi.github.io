@@ -8,13 +8,13 @@ redirect_from:
 ---
 
 <div style="text-align: right; margin-bottom: 2em; font-size: 14px; border-bottom: 1px solid #e9ecef; padding-bottom: 1em;">
-  <a href="https://translate.google.com/translate?hl=en&sl=es&u=https://arduinotomasi.github.io/" target="_blank" style="margin: 0 12px; text-decoration: none; color: #495057; transition: color 0.3s ease;">
+  <a href="https://arduinotomasi-github-io.translate.goog/?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=en-US&_x_tr_pto=wapp" target="_blank" style="margin: 0 12px; text-decoration: none; color: #495057; transition: color 0.3s ease;">
     <img src="https://flagcdn.com/ec.svg" width="18" style="vertical-align: middle; margin-right: 4px;"> Español
   </a>
-  <a href="https://translate.google.com/translate?hl=fr&sl=es&u=https://arduinotomasi.github.io/" target="_blank" style="margin: 0 12px; text-decoration: none; color: #495057; transition: color 0.3s ease;">
+  <a href="https://arduinotomasi-github-io.translate.goog/?_x_tr_sl=en&_x_tr_tl=fr&_x_tr_hl=en-US&_x_tr_pto=wapp" target="_blank" style="margin: 0 12px; text-decoration: none; color: #495057; transition: color 0.3s ease;">
     <img src="https://flagcdn.com/fr.svg" width="18" style="vertical-align: middle; margin-right: 4px;"> Français
   </a>
-  <a href="https://translate.google.com/translate?hl=it&sl=es&u=https://arduinotomasi.github.io/" target="_blank" style="margin: 0 12px; text-decoration: none; color: #495057; transition: color 0.3s ease;">
+  <a href="https://arduinotomasi-github-io.translate.goog/?_x_tr_sl=en&_x_tr_tl=it&_x_tr_hl=en-US&_x_tr_pto=wapp" target="_blank" style="margin: 0 12px; text-decoration: none; color: #495057; transition: color 0.3s ease;">
     <img src="https://flagcdn.com/it.svg" width="18" style="vertical-align: middle; margin-right: 4px;"> Italiano
   </a>
 </div>
@@ -204,7 +204,7 @@ I am a political scientist who bridges academic research with investigative jour
 </p>
 
 <p class="overview-text">
-My academic research employs game-theoretic models and quantitative methods to examine how public policies influence electoral dynamics and how political frictions generate economic distortions in developing countries. This analytical foundation now informs my investigative work on organized crime, state capture, and institutional manipulation across Latin America, where I combine rigorous data analysis with the vanguardist literary techniques of Ecuadorian writer Pablo Palacio—employing his surrealist fragmentation and psychological excavation to pierce through the comfortable mythologies that obscure political reality.
+My academic research employs game-theoretic models and quantitative methods to examine how public policies influence electoral dynamics and how political frictions generate economic distortions in developing countries. This analytical foundation now informs my investigative work on organized crime, state capture, and institutional manipulation in Ecuador, where I combine data analysis with the literary techniques of avant-garde writer Pablo Palacio.
 </p>
 </div>
 
@@ -242,7 +242,7 @@ Read Full Analysis →
 <a href="https://periodismodeinvestigacion.com/category/luz-lateral/" target="_blank">Luz Lateral</a>
 </h4>
 <p class="investigation-description">
-An experimental platform for social critique through the creative reimagining of Pablo Palacio's canonical short stories. This project bridges literary analysis and contemporary social commentary, using Palacio's surrealist framework to examine the peculiar theater of modern Ecuadorian political and social realities—where the absurd and grotesque has become so naturalized that only vanguardist techniques can restore our capacity for proper astonishment.
+An experimental platform for social critique through the creative reimagining of Pablo Palacio's canonical short stories. This project bridges literary analysis and contemporary social commentary, using Palacio's surrealist framework to examine the peculiar theater of modern Ecuadorian political and social realities—where the absurd and grotesque has become so naturalized that perhaps only avant-garde techniques can restore our capacity for astonishment.
 
 </p>
 <a href="https://periodismodeinvestigacion.com/category/luz-lateral/" target="_blank" class="investigation-link">
@@ -268,9 +268,10 @@ My professional trajectory spans academia, journalism, and public service. I hav
 </p>
 
 <p class="overview-text">
-These experiences provide crucial insights into the intersection of academic theory and political practice, informing my current work that seeks to make complex research accessible and impactful for broader audiences. My origins in Guayaquil—a city that deeply informs my understanding of Latin American political economy—ground my analytical perspective in lived experience and regional expertise.
+These experiences provide important insights into the intersection of academic theory and political practice, informing my current work that seeks to make complex research accessible and impactful for broader audiences. My origins in Guayaquil—a city that deeply informs my understanding of Latin American political economy—ground my analytical perspective in lived experience and regional expertise.
 </p>
 </div>
-<br>
-<br>
+
 </div>
+<br>
+<br>
