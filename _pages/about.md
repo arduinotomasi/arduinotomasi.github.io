@@ -192,7 +192,10 @@ redirect_from:
 <div class="professional-container">
 
 <div class="welcome-section">
-<h3>Welcome to my website!</h3>
+
+<p class="welcome-text">
+Welcome to my website!
+</p>
 
 <p class="welcome-text">
 I am a social scientist who bridges academic research with investigative journalism and creative writing. My work combines analytical precision with narrative power to examine complex political and social phenomena in Latin America. I previously served as a <span class="highlight">Postdoctoral Researcher at The University of Chicago</span> and earned my <span class="highlight">PhD in Political Science from The London School of Economics and Political Science</span> in 2021.
