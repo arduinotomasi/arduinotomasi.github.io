@@ -36,15 +36,11 @@ redirect_from:
     border: none;
 }
 
-.overview-section {
-    background: #fafbfc;
-    padding: 35px;
-    border-left: 4px solid #2563eb;
+.welcome-section {
     margin-bottom: 40px;
-    border-radius: 0 8px 8px 0;
 }
 
-.overview-section h3 {
+.welcome-section h3 {
     color: #1a202c;
     font-size: 1.4em;
     font-weight: 400;
@@ -52,7 +48,7 @@ redirect_from:
     letter-spacing: 0.5px;
 }
 
-.overview-text {
+.welcome-text {
     font-size: 1.05em;
     text-align: justify;
     margin-bottom: 20px;
@@ -183,7 +179,6 @@ redirect_from:
         padding: 0 15px;
     }
     
-    .overview-section,
     .credentials-section {
         padding: 25px 20px;
     }
@@ -196,14 +191,14 @@ redirect_from:
 
 <div class="professional-container">
 
-<div class="overview-section">
-<h3>Professional Overview</h3>
+<div class="welcome-section">
+<h3>Welcome to my website!</h3>
 
-<p class="overview-text">
-I am a political scientist who bridges academic research with investigative journalism and creative writing. My work combines analytical precision with narrative power to examine complex political and social phenomena in Latin America. I previously served as a <span class="highlight">Postdoctoral Researcher at The University of Chicago</span> and earned my <span class="highlight">PhD in Political Science from The London School of Economics and Political Science</span> in 2021.
+<p class="welcome-text">
+I am a social scientist who bridges academic research with investigative journalism and creative writing. My work combines analytical precision with narrative power to examine complex political and social phenomena in Latin America. I previously served as a <span class="highlight">Postdoctoral Researcher at The University of Chicago</span> and earned my <span class="highlight">PhD in Political Science from The London School of Economics and Political Science</span> in 2021.
 </p>
 
-<p class="overview-text">
+<p class="welcome-text">
 My academic research employs game-theoretic models and quantitative methods to examine how public policies influence electoral dynamics and how political frictions generate economic distortions in developing countries. This analytical foundation now informs my investigative work on organized crime, state capture, and institutional manipulation in Ecuador, where I combine data analysis with the literary techniques of avant-garde writer Pablo Palacio.
 </p>
 </div>
@@ -263,11 +258,11 @@ Explore Literary Series →
 </ul>
 </div>
 
-<p class="overview-text">
+<p class="welcome-text">
 My professional trajectory spans academia, journalism, and public service. I have served as an editorial assistant for the <span class="highlight">American Political Science Review</span> and worked as a legislative advisor in the Ecuadorian Parliament. Between 2018 and 2020, I coordinated the Political Science and Political Economy Doctoral Workshop at the LSE, fostering academic dialogue and collaboration.
 </p>
 
-<p class="overview-text">
+<p class="welcome-text">
 These experiences provide important insights into the intersection of academic theory and political practice, informing my current work that seeks to make complex research accessible and impactful for broader audiences. My origins in Guayaquil—a city that deeply informs my understanding of Latin American political economy—ground my analytical perspective in lived experience and regional expertise.
 </p>
 </div>
