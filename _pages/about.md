@@ -193,6 +193,11 @@ redirect_from:
 
 <div class="welcome-section">
 
+<p class="welcome-text"><strong>Update (2025 – ∞):</strong> After years of seeking truth, I have fully stepped into life beyond academic, journalistic, and creative pursuits. This site now preserves my past writings as they are —a testament to paths once walked, not ones still traveled— and remains here as a curated archive for those who may find meaning in them. I am no longer undertaking new projects, open to collaboration, or accepting professional inquiries. At present, I am simply a citizen.</p>
+
+<hr>
+<br>
+
 <p class="welcome-text">
 Welcome to my website!
 </p>
