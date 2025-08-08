@@ -9,4 +9,4 @@ author_profile: true
 
 # Redireccionando...
 
-[Ir a Luz Lateral ahora](https://periodismodeinvestigacion.com/2025/04/09/el-rostro-oculto-de-ecuador-analisis-de-las-cifras-de-desapariciones/)
+[Ir a Ecuador: Desaparecidos (1986-2024) ahora](https://periodismodeinvestigacion.com/2025/04/09/el-rostro-oculto-de-ecuador-analisis-de-las-cifras-de-desapariciones/)

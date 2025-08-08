@@ -193,7 +193,7 @@ redirect_from:
 
 <div class="welcome-section">
 
-<p class="welcome-text"><strong>Update (2025 – ∞):</strong> After years of seeking truth, I have fully stepped into life beyond academic, journalistic, and creative pursuits. This site now preserves my past writings as they are —a testament to paths once walked, not ones still traveled— and remains here as a curated archive for those who may find meaning in them. I am no longer undertaking new projects, open to collaboration, or accepting professional inquiries. At present, I am simply a citizen.</p>
+<p class="welcome-text"><strong>Update (August 9, 2025 – ∞).</strong> After years of seeking truth, I have fully stepped into life beyond academic, journalistic, and creative pursuits. This site now preserves my past writings as they are —a testament to paths once walked, not ones still traveled— and remains here as a curated archive for those who may find meaning in them. I am no longer undertaking new projects, open to collaboration, or accepting professional inquiries. At present, I am simply a citizen.</p>
 
 <hr>
 <br>
@@ -242,7 +242,7 @@ Read Full Analysis →
 
 <div class="investigation-item">
 <h4 class="investigation-title">
-<a href="https://periodismodeinvestigacion.com/category/luz-lateral/" target="_blank">Luz Lateral</a>
+<a href="https://periodismodeinvestigacion.com/category/luz-lateral/" target="_blank">Sidelight</a>
 </h4>
 <p class="investigation-description">
 An experimental platform for social critique through the creative reimagining of Pablo Palacio's canonical short stories. This project bridges literary analysis and social commentary, using Palacio's surrealist framework to explore modern Ecuadorian political and social realities—where the absurd and grotesque has become so naturalized that perhaps only avant-garde techniques can restore our capacity for astonishment.
@@ -252,6 +252,19 @@ An experimental platform for social critique through the creative reimagining of
 Explore Literary Series →
 </a>
 </div>
+
+<div class="investigation-item">
+<h4 class="investigation-title">
+<a href="https://periodismodeinvestigacion.com/category/luz-lateral/" target="_blank">Instructions for Correctly Assassinating a Journalist</a>
+</h4>
+<p class="investigation-description">
+A satirical political chronicle written for <a href="https://periodismodeinvestigacion.com/">La Fuente</a> —the investigative outlet founded by Ecuadorian journalist Fernando Villavicencio— as part of a special project marking two years since his assassination, a crime that remains in impunity. Framed as a step-by-step manual, I use irony to expose how political power can systematically eliminate a journalist: through surveillance, threats, assassination, institutional cover-up and posthumous smears. Each section reflects real, documented events from Villavicencio’s case, transforming scattered information into a cohesive narrative. The result is both a denunciation and a memorial, confronting the mechanisms of silence and impunity with sharp, deliberate satire.
+</p>
+<a href="https://periodismodeinvestigacion.com/2025/08/06/instrucciones-para-asesinar-correctamente-a-un-periodista" target="_blank" class="investigation-link">
+Read the Satire →
+</a>
+</div>
+
 </div>
 
 <div class="credentials-section">
@@ -267,11 +280,11 @@ Explore Literary Series →
 </div>
 
 <p class="welcome-text">
-My professional trajectory spans academia, journalism, and public service. I have served as an editorial assistant for the <span class="highlight">American Political Science Review</span> and worked as a legislative advisor in the Ecuadorian Parliament. Between 2018 and 2020, I coordinated the Political Science and Political Economy Doctoral Workshop at the LSE, fostering academic dialogue and collaboration.
+My professional activities spans academia, journalism, and public service. I have served as an editorial assistant for the <span class="highlight">American Political Science Review</span> and worked as a legislative advisor in the Ecuadorian Parliament. Between 2018 and 2020, I coordinated the Political Science and Political Economy Doctoral Workshop at the LSE, fostering academic dialogue and collaboration.
 </p>
 
 <p class="welcome-text">
-These experiences provide important insights into the intersection of academic theory and political practice, informing my current work that seeks to make complex research accessible and impactful for broader audiences. My origins in Guayaquil—a city that deeply informs my understanding of Latin American political economy—ground my analytical perspective in lived experience and regional expertise.
+These experiences provided me with valuable insights into the intersection of academic theory and political practice, informing my current work that seeks to make complex research accessible and impactful for broader audiences. My origins in Guayaquil—a city that deeply informs my understanding of Latin American political economy—ground my analytical perspective in lived experience and regional expertise.
 </p>
 </div>
 
