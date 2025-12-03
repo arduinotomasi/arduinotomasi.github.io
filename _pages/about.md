@@ -193,8 +193,11 @@ redirect_from:
 
 <div class="welcome-section">
 
-<p class="welcome-text"><strong>Update (August 9, 2025 – ∞).</strong> After years of seeking truth, I have fully stepped into life beyond academic, journalistic, and creative pursuits. This site now preserves my past writings as they are —a testament to paths once walked, not ones still traveled— and remains here as a curated archive for those who may find meaning in them. I am no longer undertaking new projects, open to collaboration, or accepting professional inquiries. At present, I am simply a citizen.</p>
+<p class="welcome-text">
+<strong>Update (December 2025 – present).</strong> When former Ecuadorian government officials—whose résumés dwell in that gray zone between public service and organized crime—made their concerns about my work uncomfortably explicit, I entered a strategic hiatus to protect my family and myself. I have since joined <a href="https://periodismodeinvestigacion.com/">La Fuente – Periodismo de Investigación</a> <em>(The Source – Investigative Journalism)</em>, the legacy built by journalist Fernando Villavicencio (&dagger;) before his presidential campaign encountered that most persuasive form of opposition in modern Ecuador—a bullet to the head, delivered August 9, 2023.</p>
 
+<p class="welcome-text">
+At <a href="https://periodismodeinvestigacion.com/">La Fuente</a>, I investigate State crimes, narcopolitics, forced disappearances, child trafficking, and institutional manipulation. Among my current work: the ongoing investigation into Villavicencio's murder itself, a case I pursue alongside his daughters Amanda and Tamia—who inherited not safety, but their father's habit of asking unacceptable questions.</p>
 <hr>
 <br>
 
@@ -255,10 +258,11 @@ Explore Literary Series →
 
 <div class="investigation-item">
 <h4 class="investigation-title">
-<a href="https://periodismodeinvestigacion.com/category/luz-lateral/" target="_blank">Instructions for Correctly Assassinating a Journalist</a>
+<a href="https://periodismodeinvestigacion.com/2025/08/06/instrucciones-para-asesinar-correctamente-a-un-periodista" target="_blank">Instructions for Correctly Assassinating a Journalist</a>
 </h4>
 <p class="investigation-description">
-A satirical political chronicle written for <a href="https://periodismodeinvestigacion.com/">La Fuente</a> —the investigative outlet founded by Ecuadorian journalist Fernando Villavicencio— as part of a special project marking two years since his assassination, a crime that remains in impunity. Framed as a step-by-step manual, I use irony to expose how political power can systematically eliminate a journalist: through surveillance, threats, assassination, institutional cover-up and posthumous smears. Each section reflects real, documented events from Villavicencio’s case, transforming scattered information into a cohesive narrative. The result is both a denunciation and a memorial, confronting the mechanisms of silence and impunity with sharp, deliberate satire.
+
+A satirical political chronicle written for <a href="https://periodismodeinvestigacion.com/">La Fuente</a> —the investigative outlet founded by Ecuadorian journalist Fernando Villavicencio— as part of a special project marking two years since his assassination, a crime that remains in impunity. Framed as a step-by-step manual, I use irony to expose how political power can systematically eliminate a journalist: through surveillance, threats, assassination, institutional cover-up and posthumous smears. Each section reflects real, documented events from Villavicencio's case, transforming scattered information into a cohesive narrative. The result is both a denunciation and a memorial, confronting the mechanisms of silence and impunity with sharp, deliberate satire.
 </p>
 <a href="https://periodismodeinvestigacion.com/2025/08/06/instrucciones-para-asesinar-correctamente-a-un-periodista" target="_blank" class="investigation-link">
 Read the Satire →
