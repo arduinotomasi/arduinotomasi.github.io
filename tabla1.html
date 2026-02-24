@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Tabla Homicidios</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+
+    body {
+      font-family: Georgia, serif;
+      background: transparent;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      padding: 8px;
+    }
+
+    table {
+      border-collapse: collapse;
+      width: 100%;
+    }
+
+    thead tr {
+      background: #1a1a1a;
+    }
+
+    thead th {
+      color: #ffffff;
+      font-weight: bold;
+      font-size: 11px;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      padding: 10px 12px;
+      text-align: center;
+      white-space: nowrap;
+    }
+
+    tbody tr:nth-child(odd)  { background: #f5f0e8; }
+    tbody tr:nth-child(even) { background: #ffffff; }
+
+    tbody td {
+      color: #555555;
+      font-size: 12px;
+      padding: 9px 12px;
+      text-align: center;
+      white-space: nowrap;
+      border-bottom: 1px solid #e0dbd0;
+    }
+
+    tbody td:first-child {
+      font-weight: bold;
+      color: #333333;
+    }
+
+    p.nota {
+      margin-top: 8px;
+      font-size: 10px;
+      color: #bbbbbb;
+      font-style: italic;
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+  <table>
+    <thead>
+      <tr>
+        <th>Evento</th>
+        <th>Fecha</th>
+        <th>Hora</th>
+        <th>Latitud</th>
+        <th>Longitud</th>
+        <th>Cantón</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td>Homicidio 1</td><td>01-01-2025</td><td>13:01</td><td>−3.2601</td><td>−79.901</td><td>Machala</td></tr>
+      <tr><td>Homicidio 2</td><td>01-01-2025</td><td>13:02</td><td>−3.2602</td><td>−79.902</td><td>Machala</td></tr>
+      <tr><td>Homicidio 3</td><td>01-01-2025</td><td>13:03</td><td>−3.2603</td><td>−79.903</td><td>Machala</td></tr>
+      <tr><td>Homicidio 4</td><td>01-01-2025</td><td>13:04</td><td>−3.2604</td><td>−79.904</td><td>Machala</td></tr>
+      <tr><td>Homicidio 5</td><td>01-01-2025</td><td>13:05</td><td>−3.2605</td><td>−79.905</td><td>Machala</td></tr>
+    </tbody>
+  </table>
+  <p class="nota">* Datos hipotéticos con fines ilustrativos.</p>
+</body>
+</html>
